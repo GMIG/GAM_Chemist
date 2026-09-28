@@ -1,0 +1,7 @@
+{
+  "main_terms": [
+    {"feature": "T", "type": "s"},
+    {"feature": "c", "type": "s"}
+  ],
+  "interactions": []
+}

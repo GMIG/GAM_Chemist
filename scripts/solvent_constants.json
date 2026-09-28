@@ -1,0 +1,154 @@
+{
+  "EC": {
+    "molar_mass": 88.06,
+    "density": 1.321
+  },
+  "PC": {
+    "molar_mass": 102.08,
+    "density": 1.205
+  },
+  "DMC": {
+    "molar_mass": 90.08,
+    "density": 1.07
+  },
+  "EMC": {
+    "molar_mass": 104.1,
+    "density": 0.902
+  },
+  "DEC": {
+    "molar_mass": 118.132,
+    "density": 0.975
+  },
+  "DME": {
+    "molar_mass": 90.12,
+    "density": 0.86
+  },
+  "DMSO": {
+    "molar_mass": 78.13,
+    "density": 1.1004
+  },
+  "AN": {
+    "molar_mass": 41.05,
+    "density": 0.786
+  },
+  "MOEMC": {
+    "molar_mass": 134.13,
+    "density": 1.5
+  },
+  "TFP": {
+    "molar_mass": 344.07,
+    "density": 1.487
+  },
+  "EA": {
+    "molar_mass": 88.1,
+    "density": 0.902
+  },
+  "MA": {
+    "molar_mass": 74.08,
+    "density": 0.932
+  },
+  "FEC": {
+    "molar_mass": 106.05,
+    "density": 1.454
+  },
+  "DOL": {
+    "molar_mass": 74.08,
+    "density": 1.06
+  },
+  "2-MeTHF": {
+    "molar_mass": 86.13,
+    "density": 0.854
+  },
+  "DMM": {
+    "molar_mass": 162.2,
+    "density": 0.902
+  },
+  "Freon 11": {
+    "molar_mass": 137.36,
+    "density": 1.49
+  },
+  "Methylene chloride": {
+    "molar_mass": 84.93,
+    "density": 1.33
+  },
+  "THF": {
+    "molar_mass": 72.1,
+    "density": 0.888
+  },
+  "Toluene": {
+    "molar_mass": 92.14,
+    "density": 0.867
+  },
+  "Sulfolane": {
+    "molar_mass": 120.17,
+    "density": 1.26
+  },
+  "2-Glyme": {
+    "molar_mass": 134.17,
+    "density": 0.937
+  },
+  "3-Glyme": {
+    "molar_mass": 178.22,
+    "density": 0.986
+  },
+  "4-Glyme": {
+    "molar_mass": 222.28,
+    "density": 1.009
+  },
+  "3-Me-2-Oxazolidinone": {
+    "molar_mass": 101.1,
+    "density": 1.17
+  },
+  "3-MeSulfolane": {
+    "molar_mass": 134.2,
+    "density": 1.2
+  },
+  "Ethyldiglyme": {
+    "molar_mass": 134.17,
+    "density": 0.937
+  },
+  "DMF": {
+    "molar_mass": 73.09,
+    "density": 0.944
+  },
+  "Ethylbenzene": {
+    "molar_mass": 106.17,
+    "density": 0.866
+  },
+  "Ethylmonoglyme": {
+    "molar_mass": 76.1,
+    "density": 0.965
+  },
+  "Benzene": {
+    "molar_mass": 78.11,
+    "density": 0.876
+  },
+  "g-Butyrolactone": {
+    "molar_mass": 86.09,
+    "density": 1.13
+  },
+  "Cumene": {
+    "molar_mass": 120.19,
+    "density": 0.862
+  },
+  "Propylsulfone": {
+    "molar_mass": 150.24,
+    "density": 1.109
+  },
+  "Pseudocumeme": {
+    "molar_mass": 120.19,
+    "density": 0.876
+  },
+  "TEOS": {
+    "molar_mass": 208.33,
+    "density": 0.94
+  },
+  "m-Xylene": {
+    "molar_mass": 106.17,
+    "density": 0.86
+  },
+  "o-Xylene": {
+    "molar_mass": 106.16,
+    "density": 0.87596
+  }
+}
